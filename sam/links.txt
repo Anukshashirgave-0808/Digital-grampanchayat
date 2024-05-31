@@ -1,0 +1,5 @@
+http://localhost/sam/home.php  home
+
+http://localhost/sam/user1.php  user
+
+http://localhost/sam/report.php  admin
